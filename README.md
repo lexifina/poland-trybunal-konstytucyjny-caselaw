@@ -3,7 +3,7 @@
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the case law of the Trybunał Konstytucyjny (Constitutional Tribunal), Poland, which global-law reads at `poland/trybunal-konstytucyjny/caselaw/`.
 
 Every judgment of the Trybunał Konstytucyjny (Constitutional Tribunal) that SAOS (System Analizy Orzeczeń Sądowych) holds with its text, as a git history: one file per
-judgment, one commit per judgment, dated the day it was given. 9,503 judgments from 1986-05-28 to 2026-11-07.
+judgment, one commit per judgment, dated the day it was given. 9,503 judgments given from 1986-05-28 to 2015-12-09, as SAOS held them on 2026-11-07. SAOS holds no judgment of the Trybunał Konstytucyjny (Constitutional Tribunal) given after 2015-12-09: later judgments are not in this record, though it was checked against SAOS on 2026-11-07.
 
 ## Questions as git commands
 

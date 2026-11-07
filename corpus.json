@@ -10,7 +10,7 @@
   "history_from": "1986-05-28",
   "record_to": "2026-11-07",
   "checked_on": "2026-11-07",
-  "record_note": "Court decisions, not laws: every commit is Kind: court. In-force is the day given. Judgments with no usable date are in decisions/undated/.",
+  "record_note": "Court decisions, not laws: every commit is Kind: court. In-force is the day given. Judgments with no usable date are in decisions/undated/. SAOS holds no judgment of the Trybunał Konstytucyjny (Constitutional Tribunal) given after 2015-12-09: later judgments are not in this record, though it was checked against SAOS on 2026-11-07.",
   "in_force_trailer": "In-force",
   "correction_trailer": "Corrected",
   "dates": {
